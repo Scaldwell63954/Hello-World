@@ -1,2 +1,3 @@
 # Hello-World
 My first repository on my exciting coding journey
+I am a 47 year old female, divorced twice, with 2 wonderful boys. One is 21 and the other one is 17. I have been in a relationship now with a wonderful gentleman for 5 years. I am a stay at home housewife and I have always been facinated with code. Now my boys are grown and on their own, so I decided there is no better way to fill my time than to learn what I always wanted to do, whether I use it or not. So everyone wish me luck and any advice is welcome, because I am not sure which language I should choose to learn first. I know that any I choose will be a journey as I know coding is not easy, that is why I choose to learn. 
